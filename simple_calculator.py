@@ -16,6 +16,9 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
+def sq_root(x):
+    return sqrt(x)
+
 
 print("Select operation.")
 print("1.Add")
